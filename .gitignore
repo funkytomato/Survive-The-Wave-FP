@@ -618,7 +618,6 @@ Content/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/DragCoeff.uasset
 Content/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/MaterialProjectileDataTable.uasset
 Content/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/ProjectileMaterialData.uasset
 Content/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/ProjectileState.uasset
-Content/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Grenade_launched.uasset
 Content/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Grenade_Thrown.uasset
 Content/BallisticsVFX/Particles/BulletCasings/NS_Bullet_Casing_2.uasset
 Content/BallisticsVFX/Particles/Destruction/Fractures/NS_Fracture_BrownDusty.uasset
